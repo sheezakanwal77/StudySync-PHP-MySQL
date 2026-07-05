@@ -308,7 +308,7 @@ http://localhost/StudySync/admin/login.php
 
 # 👨‍💻 Developer
 
-**Asad Ali**
+**Sheeza Kanwal**
 
 ### Project
 
